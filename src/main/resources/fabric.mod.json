@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "sec",
+  "version": "${version}",
+  "name": "SEController",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/sec/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.mitask.sec.Sec"
+    ]
+  },
+  "mixins": [
+    "sec.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "minecraft": ">=${minecraft_version}",
+    "owo": ">=${owo_version}"
+  }
+}

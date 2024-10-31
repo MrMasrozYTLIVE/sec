@@ -1,0 +1,8 @@
+{
+  "text.config.secontroller.title": "SeasonEventController (SEC)",
+  "text.config.secontroller.option.Christmas": "Christmas",
+  "text.config.secontroller.option.Halloween": "Halloween",
+  "text.config.secontroller.enum.choices.force_enable": "Force Enable",
+  "text.config.secontroller.enum.choices.force_disable": "Force Disable",
+  "text.config.secontroller.enum.choices.vanilla": "Vanilla Behavior"
+}
