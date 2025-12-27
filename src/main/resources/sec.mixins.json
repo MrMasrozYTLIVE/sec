@@ -5,12 +5,7 @@
   "compatibilityLevel": "JAVA_21",
   "plugin": "net.mitask.sec.SecMixinPlugin",
   "mixins": [
-    "EBECompatMixin",
-    "SkeletonEntityMixin",
-    "ZombieEntityMixin"
-  ],
-  "client": [
-    "ChestRendererMixin"
+    "HolidaysMixin"
   ],
   "injectors": {
     "defaultRequire": 1

@@ -1,8 +1,8 @@
 {
-  "text.config.secontroller.title": "SeasonEventController (SEC)",
-  "text.config.secontroller.option.Christmas": "Christmas",
-  "text.config.secontroller.option.Halloween": "Halloween",
-  "text.config.secontroller.enum.choices.force_enable": "Force Enable",
-  "text.config.secontroller.enum.choices.force_disable": "Force Disable",
-  "text.config.secontroller.enum.choices.vanilla": "Vanilla Behavior"
+  "sec.midnightconfig.title": "SeasonEventController (SEC)",
+  "sec.midnightconfig.Christmas": "Christmas",
+  "sec.midnightconfig.Halloween": "Halloween",
+  "sec.midnightconfig.enum.Choices.FORCE_ENABLE": "Force Enable",
+  "sec.midnightconfig.enum.Choices.FORCE_DISABLE": "Force Disable",
+  "sec.midnightconfig.enum.Choices.VANILLA": "Vanilla Behavior"
 }

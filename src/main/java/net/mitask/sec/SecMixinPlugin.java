@@ -15,7 +15,7 @@ public class SecMixinPlugin implements IMixinConfigPlugin {
     private static final Supplier<Boolean> TRUE = () -> true;
 
     private static final Map<String, Supplier<Boolean>> CONDITIONS = ImmutableMap.of(
-            "net.mitask.sec.mixins.EBECompatMixin", () -> FabricLoader.getInstance().isModLoaded("enhancedblockentities")
+            "net.mitask.sec.mixins.EBECompatMixin", () -> FabricLoader.getInstance().isModLoaded("betterblockentities")
     );
 
     @Override
